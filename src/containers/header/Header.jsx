@@ -1,16 +1,16 @@
 import React from 'react'
 import "./header.css"
 import people from "../../assets/people.png"
-import ai from "../../assets/ai.png"
+import ai from "../../assets/imagem-header.jpg"
 
 const Header = () => {
   return (
     <div className="gpt3__header section_padding" id='home'>
       <div className="gpt3__header-content">
-        <h1 className="gradient__text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
-        <p>The first version of GPT was released in 2018 and contained 117 million parameters. The second version of the model, GPT-2, was released in 2019 with around 1.5 billion parameters. As the latest version, GPT-3 jumps over the last model by a huge margin with over 175 billion parameters, which is more than 100 times its predecessor and ten times more than comparable programs.</p>
+        <h1 className="gradient__text">TechTune: Onde Tecnologia e Música Se Unem para Inspirar.</h1>
+        <p>TechTune é um espaço de exploração na intersecção entre tecnologia e música, onde mergulhamos em temas como inteligência artificial na composição, instrumentos digitais e produção musical. Junte-se a nós nessa jornada fascinante para descobrir como a fusão da tecnologia e da música pode gerar harmonia e criatividade ilimitadas.</p>
 
-        <div className="gpt3__header-content__input">
+        {/* <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
           <button type="button">Get Started</button>
         </div>
@@ -18,7 +18,7 @@ const Header = () => {
         <div className="gpt3__header-content__people">
           <img src={people} alt="people" />
           <p>1,600 people requested access a visit in last 24 hours</p>
-        </div>
+        </div> */}
 
       </div>
       <div className="gpt3__header-image">

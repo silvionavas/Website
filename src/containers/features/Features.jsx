@@ -4,29 +4,30 @@ import "./features.css"
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly.",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
+    "title": "Explorando a Harmonia Digital",
+    "text": "Exploramos a emocionante convergência entre música e tecnologia, mostrando como a harmonia digital está revolucionando nossa experiência musical."
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to."
+    "title": "Inovação Sonora",
+    "text": "Inovação sonora, tendências em instrumentos musicais digitais, produção de áudio e tecnologias da música."
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address."
+    "title": "Compondo o Futuro",
+    "text": "Como a tecnologia está revolucionando a composição musical, desde IA na criação de melodias até novas ferramentas de produção."
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush."
+    "title": "A Fusão entre Arte e Digital",
+    "text": "Encontro entre a arte da música e o mundo digital. Explore conosco como a tecnologia está ampliando os limites da expressão musical e criando novas formas de interação com o som."
   }
 ]
+
 
 const Features = () => {
   return (
     <div className="gpt3__features section__padding" id="features">
       <div className="gpt3__features-heading">
-        <h1 className="gradient__text">The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
-        <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Música e Tecnologia: Harmonia Inovadora ao seu Alcance. Explore o Futuro Sonoro com TechTune.</h1>
+      <p>Seja um dos Primeiros a se Conectar à Revolução Musical Digital.</p>
       </div>
       <div className="gpt3__features-container">
         <div>

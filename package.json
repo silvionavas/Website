@@ -1,11 +1,12 @@
 {
-  "name": "openai-gpt3",
-  "author": "Nikhil Mohite",
+  "name": "website-contudoweb",
+  "author": "Silvio Navas",
+  "homepage": "https://silvionavas.github.io/Website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nkilm/openai-gpt3"
+    "url": "https://silvionavas.github.io/Website"
   },
-  "description": "Clone of GPT3 Website using Reactjs",
+  "description": "Website using Reactjs",
   "version": "0.1.0",
   "keywords": [
     "reactjs",
@@ -28,7 +29,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

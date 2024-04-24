@@ -5,16 +5,18 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3?" text="Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI, a San Francisco-based artificial intelligence research laboratory." />
+      <Feature title="O que é TechTune?" text="TechTune é um projeto que explora a interseção emocionante entre tecnologia e    música, criando experiências inovadoras e inspiradoras. É um portal para descobrir e explorar o futuro emocionante da   criação musical e da inovação tecnológica." />
     </div>
+
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination.</h1>
-      <p>Explore the Library</p>
+      <h1 className="gradient__text">As possibilidades estão além da sua imaginação.</h1>
+       <p>Explore o Portal</p>
     </div>
+    
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="Simulate human-like conversations using Natural Language Processing (NLP)." />
-      <Feature title="Knowledgebase" text="GPT-3's deep learning neural network is a model with over 175 billion machine learning parameters. To put things into scale, the largest trained language model before GPT-3 was Microsoft's Turing NLG model, which had 10 billion parameters." />
-      <Feature title="Education" text="Artificial Intelligence (AI) has the potential to address some of the biggest challenges in education today, innovate teaching and learning practices, and ultimately accelerate the progress." />
+      <Feature title="Inteligência Artificial na Música" text="Descubra como a inteligência artificial está revolucionando a    criação musical e expandindo os horizontes da expressão sonora." />
+      <Feature title="Instrumentos Digitais" text="Conheça os instrumentos musicais digitais que estão moldando o futuro da     produção musical e da performance." />
+      <Feature title="Educação Musical" text="TechTune acredita no poder da música para transformar vidas e está comprometido em    promover a educação musical de forma inovadora e acessível." />
     </div>
   </div>
 );

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./possibility.css"
 
-import  possibilityImage  from '../../assets/possibility.png'
+import  possibilityImage  from '../../assets/musica-tecnologia.svg'
 
 const Possibility = () => {
   return (
@@ -10,9 +10,9 @@ const Possibility = () => {
           <img src={possibilityImage} alt="possibility" />
         </div>
         <div className="gpt3__possibility-container">
-          <p><a href="/">Request Early Access to Get Started</a></p>
-          <h1>The possibilities are beyond your imagination.</h1>
-          <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+        <p><a href="/">Solicite Acesso Antecipado para Começar</a></p>
+        <h1>As possibilidades são ilimitadas.</h1>
+        <p>Descubra novos horizontes musicais e tecnológicos conosco. A harmonia entre inovação e criatividade redefine a maneira como experimentamos e criamos música.</p>
         </div>
     </div>
   )
