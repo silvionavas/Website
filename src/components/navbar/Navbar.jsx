@@ -1,13 +1,14 @@
 import React, { useState } from 'react'
+import { Link } from 'react-router-dom';
 import "./navbar.css"
 import logo from "../../assets/logo.svg"
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 
 const Menu = () => (
   <>
-    <p><a href='#home'>Home</a></p>
-    <p><a href='#wgpt3'>Oque é TechTune?</a></p>
-    <p><a href='#possibility'>Musica</a></p>
+    <Link className="navbar-link" to="/">Home</Link>
+    <p><a href='#wgpt3'>About</a></p>
+    <Link className="navbar-link" to="/Publication">Publication</Link>
     <p><a href='#features'>Estudos de caso</a></p>
     <p><a href='#blog'>Biblioteca</a></p>
   </>
