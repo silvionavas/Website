@@ -8,7 +8,7 @@ import NotFound from './NotFound';
 
 const IndexApp = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Website">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/Publication" element={<Publication />} />
