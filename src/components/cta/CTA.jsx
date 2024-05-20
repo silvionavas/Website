@@ -5,10 +5,10 @@ const CTA = () => {
   return (
     <div className="gpt3__cta section__margin">
       <div className="gpt3__cta-content">
-        <p>Coloque um texto legal aqui!</p>
-        <h1>Coloque um texto legal aqui!Coloque um texto legal aqui!Coloque um texto legal aqui!</h1>
+        <p>Inscreva-se em nossa newsletter para receber as últimas novidades e atualizações!</p>
+        <h1>Receba as últimas notícias diretamente na sua caixa de entrada.</h1>
       </div>
-      <button>texto aqui!</button>
+      <button>Inscreva-se já!</button>
     </div>
   )
 }
