@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.93a59526.css",
-    "main.js": "/Website/static/js/main.db35b832.js",
+    "main.css": "/Website/static/css/main.fbda043d.css",
+    "main.js": "/Website/static/js/main.1fa51138.js",
     "static/media/blog01.png": "/Website/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/Igor.PNG": "/Website/static/media/Igor.2c21ba67168b403cef55.PNG",
+    "static/media/Thomas.PNG": "/Website/static/media/Thomas.0a2d741d40278335ccdb.PNG",
     "static/media/blog03.png": "/Website/static/media/blog03.d922323861096f25274f.png",
+    "static/media/Silvio.PNG": "/Website/static/media/Silvio.b30fa4524177d641e0f1.PNG",
     "static/media/blog04.png": "/Website/static/media/blog04.742c1357e7b6c11078e6.png",
     "static/media/blog05.png": "/Website/static/media/blog05.bfaa1c1e3851158e0e1f.png",
     "static/media/blog02.png": "/Website/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/imagem-header.jpg": "/Website/static/media/imagem-header.9ecce9d43edd33673c37.jpg",
+    "static/media/Ricardo.jpg": "/Website/static/media/Ricardo.c59495eca2127c5b2321.jpg",
+    "static/media/Dennis.PNG": "/Website/static/media/Dennis.b45bc1c5bdce455c032d.PNG",
     "static/media/musica-tecnologia.svg": "/Website/static/media/musica-tecnologia.61a48d9582c494038553eedab96ea20a.svg",
     "static/media/people.png": "/Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
-    "main.93a59526.css.map": "/Website/static/css/main.93a59526.css.map",
-    "main.db35b832.js.map": "/Website/static/js/main.db35b832.js.map"
+    "main.fbda043d.css.map": "/Website/static/css/main.fbda043d.css.map",
+    "main.1fa51138.js.map": "/Website/static/js/main.1fa51138.js.map"
   },
   "entrypoints": [
-    "static/css/main.93a59526.css",
-    "static/js/main.db35b832.js"
+    "static/css/main.fbda043d.css",
+    "static/js/main.1fa51138.js"
   ]
 }
