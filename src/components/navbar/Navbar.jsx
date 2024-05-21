@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
 import "./navbar.css"
 import logo from "../../assets/logo.svg"
+import logoTechtune from "../../assets/tecjTune.jpg"
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 
 const Menu = () => (
@@ -18,9 +19,12 @@ const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false)
   return (
     <div className="gpt3__navbar">
+      <Link to="/Publication">
+        <img className='logo-techtune' src={logoTechtune} alt="GPT3 Logo" />
+      </Link>
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
-          <img src={logo} alt="GPT3 Logo" />
+          {/* <img src={logo} alt="GPT3 Logo" /> */}
         </div>
         <div className="gpt3__navbar-links_container">
           <Menu />

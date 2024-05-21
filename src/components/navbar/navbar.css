@@ -136,3 +136,10 @@
         display: block;
     }
 }
+
+
+.logo-techtune {
+    border-radius: 50%;
+    max-width: 4rem;
+    cursor: pointer;
+}

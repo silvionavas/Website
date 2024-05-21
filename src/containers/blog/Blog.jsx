@@ -10,13 +10,13 @@ const Blog = () => {
     <div className="gpt3__blog section__padding" id='blog'>
       <div className="gpt3__blog-heading">
         <h1 className="gradient__text">
-        Muitas novidades no ar! Confira tudo em nosso blog.
+          Muitas novidades no ar! Confira tudo em nosso blog.
         </h1>
       </div>
       <div className="gpt3__blog-container">
         <div className="gpt3__blog-container_groupA">
           <Link to="/Publication">
-            <Article imgUrl={blog01} date="Jul 05,2022" title="Explorando a   Convergência Tecnológica na Criação Musical Moderna" />
+            <Article imgUrl={blog01} date="Jul 05,2022" title="Suno: A Ia que gera músicas e suas possibilidades para a composição" />
           </Link>
         </div>
         <div className="gpt3__blog-container_groupB">

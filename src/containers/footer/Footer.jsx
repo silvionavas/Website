@@ -1,22 +1,24 @@
 import React from 'react'
 import "./footer.css"
+import { Link } from 'react-router-dom';
 import logoUrl from "../../assets/logo.svg"
 
 const Footer = () => {
   return (
     <div className="gpt3__footer section__padding">
-      <div className="gpt3__footer-heading">
-        <h1 className="gradient__text">
-           Duvidas? Fale Conosco!
-        </h1>
-      </div>
-      <div className="gpt3__footer-button">
-        <p>Justos pela educação</p>
-      </div>
+
       <div className="gpt3__footer-links">
         <div className="gpt3__footer-links_logo">
-          <img src={logoUrl} alt="gpt3 logo" />
-          <p>&copy; 2024 TechTune. Todos os direitos reservados.</p>
+          <div className="gpt3__footer-heading">
+            <h5 className="gradient__text">
+              Duvidas? Fale Conosco!
+            </h5>
+          </div>
+          <div className="gpt3__footer-button">
+            <Link to="/*">
+              <h4>Justos pela educação</h4>
+            </Link>
+          </div>
         </div>
         <div className="gpt3__footer-links_div">
           <h4>Links</h4>
@@ -37,10 +39,10 @@ const Footer = () => {
           <p>Telefone: (13) 3227-6003</p>
           <p>Email: TechTune@gmail.com</p>
         </div>
-          
+
       </div>
       <div className="gpt3__footer-copyrights">
-      &copy; 2024 TechTune. Todos os direitos reservados.
+        &copy; 2024 TechTune. Todos os direitos reservados.
       </div>
     </div>
   )
