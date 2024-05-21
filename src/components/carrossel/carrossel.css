@@ -1,61 +1,115 @@
-h2 {
-  font-weight: 800;
-  font-size: 33px;
-  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%), #FFFFFF;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  padding: 2rem 6rem;
-  text-align: center;
-}
+  /* carrossel.css */
 
-.work--lockup {
-  display: flex;
-  /* Usando flexbox para alinhar os itens horizontalmente */
-  flex-wrap: wrap;
-  /* Permitindo que os itens quebrem para a próxima linha se necessário */
-  justify-content: center;
-  /* Centralizando os itens horizontalmente */
-  margin: 2.5rem 1rem;
-}
+  h2 {
+    font-weight: 800;
+    font-size: 33px;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%), #FFFFFF;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 2rem 6rem;
+    text-align: center;
+  }
 
-.slider {
-  list-style-type: none;
-  /* Removendo os marcadores de lista */
-  display: flex;
-  /* Usando flexbox para alinhar os itens horizontalmente */
-}
+  .work {
+    text-align: center;
+  }
 
-.slider--item {
-  flex: 0 0 calc(20% - 20px);
-  /* Definindo a largura de cada item como 20% da largura total, com uma margem de 20px entre eles */
-  margin: 10px;
-  /* Espaçamento entre os itens */
-}
+  .work--lockup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5rem 1rem;
+    padding-top: 1rem;
+  }
 
-.slider--item-image {
-  text-align: center;
-  /* Centralizando a imagem dentro do contêiner */
-}
+  .slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 1rem;
+  }
 
-.slider--item-title {
-  margin-top: 10px;
-  /* Espaçamento superior entre o título e a imagem */
-  text-align: center;
-  /* Centralizando o texto */
-  color: #ffffff;
-  font-family: var(--font-family);
-  font-weight: 800;
-}
+  .slider--item {
+    flex: 0 0 calc(33.33% - 20px);
+    margin: 10px;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    text-align: center;
+  }
 
-.img {
-  width: 100%;
-  /* Para garantir que a imagem ocupe todo o espaço disponível */
-  height: auto;
-  /* Para manter a proporção da imagem */
-  max-width: 150px;
-  /* Definindo a largura máxima da imagem */
-  max-height: 150px;
-  /* Definindo a altura máxima da imagem */
-  border-radius: 50%;
-  /* Tornando a imagem redonda */
-}
+  .slider--item-center {
+    transform: scale(1.2);
+    opacity: 1;
+    padding: 1rem;
+  }
+
+  .slider--item:not(.slider--item-center) {
+    opacity: 0.6;
+  }
+
+  .slider--item-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+
+  .slider--item-center .slider--item-image {
+    width: 14rem;
+    height: 14rem;
+  }
+
+  .img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+
+  .back-forward {
+    width: 50%;
+    height: 50%;
+  }
+
+  .slider--item-title {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+    color: #ffffff;
+    font-family: var(--font-family);
+  }
+
+  .slider--controls {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+  }
+
+  .slider--prev,
+  .slider--next {
+    background: #042C54;
+    color: #fff;
+    border: none;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: background 0.3s ease;
+  }
+
+  .slider--prev:hover,
+  .slider--next:hover {
+    background: #f49867;
+  }
+
+
+
+  /* asas*/
