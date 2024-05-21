@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.3ef02dfe.css",
-    "main.js": "/Website/static/js/main.d8e9adf5.js",
-    "static/media/blog01.png": "/Website/static/media/blog01.cefc0932eae0d33a0342.png",
+    "main.css": "/Website/static/css/main.f71bc5af.css",
+    "main.js": "/Website/static/js/main.7e2e65e7.js",
+    "static/media/ai.png": "/Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/Igor.PNG": "/Website/static/media/Igor.2c21ba67168b403cef55.PNG",
     "static/media/Lucas.PNG": "/Website/static/media/Lucas.e9417556dbe954ebd47b.PNG",
     "static/media/Thomas.PNG": "/Website/static/media/Thomas.0a2d741d40278335ccdb.PNG",
-    "static/media/blog03.png": "/Website/static/media/blog03.d922323861096f25274f.png",
     "static/media/Silvio.PNG": "/Website/static/media/Silvio.b30fa4524177d641e0f1.PNG",
-    "static/media/blog04.png": "/Website/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/Website/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/Website/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/imagem-header.jpg": "/Website/static/media/imagem-header.9ecce9d43edd33673c37.jpg",
+    "static/media/image01.jpg": "/Website/static/media/image01.61fd8d94dc640d4512d0.jpg",
+    "static/media/image04.jpg": "/Website/static/media/image04.218e7978e73c950465f9.jpg",
+    "static/media/image02.jpg": "/Website/static/media/image02.0671a69d141b8a4aa886.jpg",
+    "static/media/image03.jpg": "/Website/static/media/image03.6c8f738d3142eacc9bf1.jpg",
+    "static/media/image09.jpg": "/Website/static/media/image09.7feca04db1fa15544a8a.jpg",
     "static/media/Ricardo.jpg": "/Website/static/media/Ricardo.c59495eca2127c5b2321.jpg",
     "static/media/Dennis.PNG": "/Website/static/media/Dennis.b45bc1c5bdce455c032d.PNG",
     "static/media/musica-tecnologia.svg": "/Website/static/media/musica-tecnologia.61a48d9582c494038553eedab96ea20a.svg",
+    "static/media/tecjTune.jpg": "/Website/static/media/tecjTune.2f4c1df128c904af6d3a.jpg",
     "static/media/people.png": "/Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
-    "main.3ef02dfe.css.map": "/Website/static/css/main.3ef02dfe.css.map",
-    "main.d8e9adf5.js.map": "/Website/static/js/main.d8e9adf5.js.map"
+    "main.f71bc5af.css.map": "/Website/static/css/main.f71bc5af.css.map",
+    "main.7e2e65e7.js.map": "/Website/static/js/main.7e2e65e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ef02dfe.css",
-    "static/js/main.d8e9adf5.js"
+    "static/css/main.f71bc5af.css",
+    "static/js/main.7e2e65e7.js"
   ]
 }
