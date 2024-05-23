@@ -8,10 +8,11 @@ import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 const Menu = () => (
   <>
     <Link className="navbar-link" to="/">Home</Link>
-    <p><a href='#wgpt3'>About</a></p>
+    <Link className="navbar-link" to="/*">About</Link>
     <Link className="navbar-link" to="/Publication">Publication</Link>
-    <p><a href='#features'>Estudos de caso</a></p>
-    <p><a href='#blog'>Biblioteca</a></p>
+    <Link className="navbar-link" to="/*">Projetos</Link>
+    <Link className="navbar-link" to="/*">Contato</Link>
+    <p><a href="https://sites.google.com/view/techtunepodcast/in%C3%ADcio" target='_blank'>Podcast</a></p>
   </>
 )
 

@@ -10,12 +10,12 @@ function App() {
         <Navbar />
         <Header />
       </div>
-      <Brand />
-      <WhatGPT3 />
+      {/* <Brand /> */}
+      {/* <WhatGPT3 /> */}
       <Carrossel />
-      <Features />
+      {/* <Features /> */}
       <Possibility />
-      <CTA />
+      {/* <CTA /> */}
       <Blog />
       <Footer />
     </div>

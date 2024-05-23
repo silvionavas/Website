@@ -51,7 +51,7 @@ const Carrossel = () => {
 
   return (
     <div className="work">
-      <h2 className="gpt3__header-content gradient__text"><h1 className="gradient__text">TechTune: Onde Tecnologia e Música Se Unem para Inspirar.</h1>
+      <h2 className="gpt3__header-content gradient__text"><h1 className="gradient__text">Em construção</h1>
         <p>TechTune é um espaço de exploração na intersecção entre tecnologia e música, onde mergulhamos em temas como inteligência artificial na composição, instrumentos digitais e produção musical. Junte-se a nós nessa jornada fascinante para descobrir como a fusão da tecnologia e da música pode gerar harmonia e criatividade ilimitadas.</p><h1 className="gpt3__header-content gradient__text integrantes">Integrantes</h1></h2>
       <div className="work--lockup">
         <div className={`slider ${animating ? 'animating' : ''}`}>

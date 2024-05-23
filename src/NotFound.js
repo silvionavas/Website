@@ -1,6 +1,6 @@
 import React from 'react';
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from "./containers";
-import { CTA, Brand, Navbar } from "./components";
+import { CTA, Brand, Navbar, Carrossel } from "./components";
 
 const NotFound = () => {
   return (
@@ -8,7 +8,10 @@ const NotFound = () => {
       <div className="gradient__bg">
         <Navbar />
       </div>
-      <WhatGPT3 />
+      {/* <WhatGPT3 /> */}
+      <h1>Hello</h1>
+      <Carrossel />
+      <Blog />
       <Footer />
     </div>
   );
