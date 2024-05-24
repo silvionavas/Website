@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.c68409f4.css",
-    "main.js": "/Website/static/js/main.d30a2079.js",
+    "main.css": "/Website/static/css/main.eb6ff271.css",
+    "main.js": "/Website/static/js/main.2f87614c.js",
     "static/media/ai.png": "/Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/Igor.PNG": "/Website/static/media/Igor.2c21ba67168b403cef55.PNG",
     "static/media/Lucas.PNG": "/Website/static/media/Lucas.e9417556dbe954ebd47b.PNG",
@@ -11,19 +11,30 @@
     "static/media/image04.jpg": "/Website/static/media/image04.218e7978e73c950465f9.jpg",
     "static/media/image02.jpg": "/Website/static/media/image02.0671a69d141b8a4aa886.jpg",
     "static/media/image03.jpg": "/Website/static/media/image03.6c8f738d3142eacc9bf1.jpg",
+    "static/media/TutorialSuno09.png": "/Website/static/media/TutorialSuno09.8786bac065f74ec82168.png",
+    "static/media/TutorialSuno08.png": "/Website/static/media/TutorialSuno08.745ec3c6cae86ae41899.png",
+    "static/media/TutorialSuno03.png": "/Website/static/media/TutorialSuno03.ecee23ffbf6f0eed9bd5.png",
+    "static/media/TutorialSuno01.png": "/Website/static/media/TutorialSuno01.a371b9364480a28063ee.png",
+    "static/media/TutorialSuno07.png": "/Website/static/media/TutorialSuno07.70f71391089757630896.png",
     "static/media/image09.jpg": "/Website/static/media/image09.7feca04db1fa15544a8a.jpg",
+    "static/media/TutorialSuno05.png": "/Website/static/media/TutorialSuno05.0f2ef17484ef18af3c28.png",
+    "static/media/TutorialSuno02.png": "/Website/static/media/TutorialSuno02.cbedfa95f98c34a8ada5.png",
+    "static/media/TutorialSuno06.png": "/Website/static/media/TutorialSuno06.7e78e3f7a93ad110ada7.png",
+    "static/media/Pedreiro.png": "/Website/static/media/Pedreiro.447d83f49d6578f70a34.png",
+    "static/media/TutorialSuno00.png": "/Website/static/media/TutorialSuno00.cfed1b5ce838909e9078.png",
     "static/media/Ricardo.jpg": "/Website/static/media/Ricardo.c59495eca2127c5b2321.jpg",
-    "static/media/Dennis.PNG": "/Website/static/media/Dennis.b45bc1c5bdce455c032d.PNG",
+    "static/media/TutorialSuno04.png": "/Website/static/media/TutorialSuno04.304023364af4b897ff3c.png",
     "static/media/musica-tecnologia.svg": "/Website/static/media/musica-tecnologia.61a48d9582c494038553eedab96ea20a.svg",
-    "static/media/tecjTune.jpg": "/Website/static/media/tecjTune.2f4c1df128c904af6d3a.jpg",
+    "static/media/techtuneBg.png": "/Website/static/media/techtuneBg.0556281c0efd7cab14ea.png",
+    "static/media/Dennis.jpg": "/Website/static/media/Dennis.9a5fd3f4abc87cb1d0dc.jpg",
     "static/media/people.png": "/Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
-    "main.c68409f4.css.map": "/Website/static/css/main.c68409f4.css.map",
-    "main.d30a2079.js.map": "/Website/static/js/main.d30a2079.js.map"
+    "main.eb6ff271.css.map": "/Website/static/css/main.eb6ff271.css.map",
+    "main.2f87614c.js.map": "/Website/static/js/main.2f87614c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c68409f4.css",
-    "static/js/main.d30a2079.js"
+    "static/css/main.eb6ff271.css",
+    "static/js/main.2f87614c.js"
   ]
 }
