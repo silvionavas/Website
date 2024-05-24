@@ -117,3 +117,8 @@ img {
     font-size: 0.9rem;
   }
 }
+
+.center {
+  display: flex;
+  align-items: center;
+}

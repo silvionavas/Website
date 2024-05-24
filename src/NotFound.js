@@ -10,7 +10,6 @@ const NotFound = () => {
         <Construcao />
       </div>
       {/* <WhatGPT3 /> */}
-      <h1>Hello</h1>
       <Blog />
       <Footer />
     </div>

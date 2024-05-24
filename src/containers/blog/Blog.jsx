@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 const Blog = () => {
   return (
-    <div className="gpt3__blog section__padding" id='blog'>
+    <div className="gpt3__blog section__paddingBlog" id='blog'>
       <div className="gpt3__blog-heading">
         <h1 className="gradient__text">
           Muitas novidades no ar! Confira tudo em nosso blog.

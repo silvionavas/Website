@@ -21,7 +21,7 @@ const Content = () => (
     <h2>Igor Barduco, Redação TechTune
       30.04.2024 – 10h25. Atualizado em 15.05.2024 – 16h25
     </h2>
-    <img src={Imagem0} alt="Texto alternativo" />
+    <img className='center' src={Imagem0} alt="Texto alternativo" />
     <h4>O suno AI, suas palavras agora geram melodias. Conheça essa ferramenta — Foto: Geração/Leonardo AI.</h4>
     <h2 className='title'>- O que é o Suno AI?</h2>
     <p>O Suno AI é uma plataforma que utiliza inteligência artificial para gerar músicas de forma automatizada, facilitando a criação musical para todos os usuários. Independentemente de ser um iniciante ou um músico experiente, você pode criar canções de forma simples e rápida, sem a necessidade de ser um profissional da música ou da programação.</p>
