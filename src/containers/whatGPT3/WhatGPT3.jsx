@@ -10,9 +10,9 @@ const WhatGPT3 = () => (
 
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">As possibilidades estão além da sua imaginação.</h1>
-       <p>Explore o Portal</p>
+      <p>Explore o Portal</p>
     </div>
-    
+
     <div className="gpt3__whatgpt3-container">
       <Feature title="Inteligência Artificial na Música" text="Descubra como a inteligência artificial está revolucionando a    criação musical e expandindo os horizontes da expressão sonora." />
       <Feature title="Instrumentos Digitais" text="Conheça os instrumentos musicais digitais que estão moldando o futuro da     produção musical e da performance." />

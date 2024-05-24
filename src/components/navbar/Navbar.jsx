@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
 import "./navbar.css"
 import logo from "../../assets/logo.svg"
-import logoTechtune from "../../assets/tecjTune.jpg"
+import logoTechtune from "../../assets/techtuneBg.png"
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 
 const Menu = () => (

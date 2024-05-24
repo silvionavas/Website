@@ -1,5 +1,5 @@
 import React from 'react';
-import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from "./containers";
+import { Blog, Features, Footer, Header, Possibility, WhatGPT3, Construcao } from "./containers";
 import { CTA, Brand, Navbar, Carrossel } from "./components";
 
 const NotFound = () => {
@@ -7,10 +7,10 @@ const NotFound = () => {
     <div className="App">
       <div className="gradient__bg">
         <Navbar />
+        <Construcao />
       </div>
       {/* <WhatGPT3 /> */}
       <h1>Hello</h1>
-      <Carrossel />
       <Blog />
       <Footer />
     </div>

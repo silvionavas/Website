@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from "./containers";
+import { Blog, Features, Footer, Header, Possibility, WhatGPT3, Midias, Content } from "./containers";
 import { CTA, Brand, Navbar, Carrossel } from "./components";
 
 const Publication = () => {
@@ -11,11 +11,14 @@ const Publication = () => {
       <div className="gradient__bg">
         <Navbar />
         {/* <Header /> */}
-        <WhatGPT3 />
+        {/* <WhatGPT3 /> */}
+        {/* <Midias /> */}
+        <Content />
+
       </div>
       {/* <Features /> */}
       {/* <CTA /> */}
-      <Carrossel />
+      {/* <Carrossel /> */}
       <Blog />
       <Footer />
     </div>

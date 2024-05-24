@@ -20,16 +20,16 @@ const Blog = () => {
           </Link>
         </div>
         <div className="gpt3__blog-container_groupB">
-          <Link to="/Publication">
+          <Link to="/*">
             <Article imgUrl={blog02} date="Jul 05,2022" title="Inovações  Sonoras: A Fusão Criativa entre Tecnologia e Música" />
           </Link>
-          <Link to="/Publication">
+          <Link to="/*">
             <Article imgUrl={blog03} date="Jul 05,2022" title="Revolução  Digital na Música: IA e Novos Horizontes Sonoros" />
           </Link>
-          <Link to="/Publication">
+          <Link to="/*">
             <Article imgUrl={blog04} date="Jul 05,2022" title="Música do  Futuro: Como a Tecnologia Está Transformando a Criação   Musical" />
           </Link>
-          <Link to="/Publication">
+          <Link to="/*">
             <Article imgUrl={blog05} date="Jul 05,2022" title="Harmonizando   Bits e Batidas: A Evolução da Música com Tecnologia Avançada" />
           </Link>
         </div>
