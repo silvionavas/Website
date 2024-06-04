@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.fa812118.css",
-    "main.js": "/Website/static/js/main.03138f16.js",
+    "main.css": "/Website/static/css/main.470f3fde.css",
+    "main.js": "/Website/static/js/main.79c5dc15.js",
     "static/media/ai.png": "/Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/Igor.PNG": "/Website/static/media/Igor.2c21ba67168b403cef55.PNG",
     "static/media/Lucas.PNG": "/Website/static/media/Lucas.e9417556dbe954ebd47b.PNG",
@@ -23,18 +23,20 @@
     "static/media/Pedreiro.png": "/Website/static/media/Pedreiro.447d83f49d6578f70a34.png",
     "static/media/TutorialSuno00.png": "/Website/static/media/TutorialSuno00.cfed1b5ce838909e9078.png",
     "static/media/Ricardo.jpg": "/Website/static/media/Ricardo.c59495eca2127c5b2321.jpg",
+    "static/media/infografico.jpg": "/Website/static/media/infografico.a096b6a4966f6131aad1.jpg",
     "static/media/TutorialSuno04.png": "/Website/static/media/TutorialSuno04.304023364af4b897ff3c.png",
     "static/media/musica-tecnologia.svg": "/Website/static/media/musica-tecnologia.61a48d9582c494038553eedab96ea20a.svg",
     "static/media/techtuneBg.png": "/Website/static/media/techtuneBg.0556281c0efd7cab14ea.png",
     "static/media/Dennis.jpg": "/Website/static/media/Dennis.9a5fd3f4abc87cb1d0dc.jpg",
+    "static/media/TechTuneBanner.jpg": "/Website/static/media/TechTuneBanner.f71f9a35316fd234de30.jpg",
     "static/media/people.png": "/Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
-    "main.fa812118.css.map": "/Website/static/css/main.fa812118.css.map",
-    "main.03138f16.js.map": "/Website/static/js/main.03138f16.js.map"
+    "main.470f3fde.css.map": "/Website/static/css/main.470f3fde.css.map",
+    "main.79c5dc15.js.map": "/Website/static/js/main.79c5dc15.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa812118.css",
-    "static/js/main.03138f16.js"
+    "static/css/main.470f3fde.css",
+    "static/js/main.79c5dc15.js"
   ]
 }
