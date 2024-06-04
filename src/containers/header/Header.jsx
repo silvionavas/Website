@@ -3,27 +3,17 @@ import "./header.css"
 import people from "../../assets/people.png"
 import ai from "../../assets/ai.png"
 import possibilityImage from '../../assets/musica-tecnologia.svg'
+import Banner from '../../assets/TechTuneBanner.jpg'
 
 const Header = () => {
   return (
     <div className="gpt3__header section_padding" id='home'>
       <div className="gpt3__header-content">
-        <h1 className="gradient__text">TechTune: Onde Tecnologia e Música Se Unem para Inspirar.</h1>
-        <p>TechTune é um espaço de exploração na intersecção entre tecnologia e música, onde mergulhamos em temas como inteligência artificial na composição, instrumentos digitais e produção musical. Junte-se a nós nessa jornada fascinante para descobrir como a fusão da tecnologia e da música pode gerar harmonia e criatividade ilimitadas.</p>
-
-        {/* <div className="gpt3__header-content__input">
-          <input type="email" placeholder="Your Email Address" />
-          <button type="button">Get Started</button>
-        </div>
-
-        <div className="gpt3__header-content__people">
-          <img src={people} alt="people" />
-          <p>1,600 people requested access a visit in last 24 hours</p>
-        </div> */}
-
+        <h1 className="gradient__text">TechTune: Compromisso com a Informação e Tecnologia para Inspirar.</h1>
+        <p>TechTune é um espaço de exploração de tecnologias e inovações, como inteligência artificial, ferramentas modernas e digitais e novidades do mercado de trabalho. Junte-se a nós nessa jornada fascinante .</p>
       </div>
       <div className="gpt3__header-image">
-        <img src={possibilityImage} alt="AI" />
+        <img src={Banner} alt="AI" />
       </div>
     </div>
   )

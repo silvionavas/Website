@@ -1,8 +1,9 @@
+// index.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import App from './App';
-import "./index.css";
+import './index.css';
 import Publication from './Publication';
 import NotFound from './NotFound';
 
@@ -11,7 +12,7 @@ const IndexApp = () => {
     <BrowserRouter basename="/Website">
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/Publication" element={<Publication />} />
+        <Route path="/publication/:id" element={<Publication />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>

@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3, Midias, Content } from "./containers";
-import { CTA, Brand, Navbar, Carrossel } from "./components";
+import { CTA, Brand, Navbar, Carrossel, Publi } from "./components";
 
 const Publication = () => {
   useEffect(() => {
@@ -10,15 +10,9 @@ const Publication = () => {
     <div className="App">
       <div className="gradient__bg">
         <Navbar />
-        {/* <Header /> */}
-        {/* <WhatGPT3 /> */}
-        {/* <Midias /> */}
-        <Content />
-
+        {/* <Content /> */}
+        <Publi />
       </div>
-      {/* <Features /> */}
-      {/* <CTA /> */}
-      {/* <Carrossel /> */}
       <Blog />
       <Footer />
     </div>
