@@ -20,7 +20,7 @@ const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false)
   return (
     <div className="gpt3__navbar">
-      <Link to="/Publication">
+      <Link to="/">
         <img className='logo-techtune' src={logoTechtune} alt="GPT3 Logo" />
       </Link>
       <div className="gpt3__navbar-links">
