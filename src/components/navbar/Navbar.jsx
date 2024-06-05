@@ -33,8 +33,12 @@ const Navbar = () => {
         <div className="gpt3__navbar-wrapper">
 
           <div className="gpt3__navbar-sign">
-            <p>Entrar</p>
-            <button type='button'>Registrar-se</button>
+            <Link to="/*">
+              <p>Entrar</p>
+            </Link>
+            <Link to="/*">
+              <button className='button' type='button'>Registrar-se</button>
+            </Link>
           </div>
           {/* Responsive part for mobiles devices */}
           {/* hamburger menu */}

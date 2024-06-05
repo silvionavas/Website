@@ -10,7 +10,6 @@ const Publication = () => {
     <div className="App">
       <div className="gradient__bg">
         <Navbar />
-        {/* <Content /> */}
         <Publi />
       </div>
       <Blog />

@@ -15,7 +15,12 @@ import Imagem6 from "../../assets/TutorialSuno06.png";
 import Imagem7 from "../../assets/TutorialSuno07.png";
 import Imagem8 from "../../assets/TutorialSuno08.png";
 import Imagem9 from "../../assets/TutorialSuno09.png";
-import Imagem10 from "../../assets/infografico.jpg";
+import Imagem10 from "../../assets/SunoImg.png";
+import Imagem11 from "../../assets/leonardoCampo.jpg";
+import Imagem12 from "../../assets/image05.jpg";
+import Imagem13 from "../../assets/leonardo.jpg";
+import Imagem14 from "../../assets/edicaoMusical.jpg";
+import Imagem15 from "../../assets/edicaoMusical2.jpg";
 
 const publiContent = {
   '1': {
@@ -97,15 +102,21 @@ const publiContent = {
           <p>Desbloqueie a Criatividade sem Limites com a Leonardo AI: Seu Portal para Imagens Impressionantes Impulsionadas por IA</p>
           <p>A Leonardo AI surge como uma ferramenta revolucionária no mundo da criação de imagens, utilizando o poder da inteligência artificial para transformar suas ideias em obras de arte digitais de tirar o fôlego. Seja você um artista experiente, um designer em busca de inovação ou um entusiasta da tecnologia, a Leonardo AI está pronta para te levar a um novo patamar de expressão artística.</p>
 
+
+
           <h2 class="section-title">Mergulhe no Mundo da Criação com IA:</h2>
+          <img src={Imagem13} alt="Imagem Aqui" />
           <p><strong>Gere Imagens Incríveis:</strong> Imagine poder criar qualquer imagem que sua mente desejar, desde paisagens fantásticas até personagens únicos e ambientes imersivos. Com a Leonardo AI, basta usar sua criatividade e descrever suas ideias em linguagem natural. A plataforma se encarrega de traduzir seus sonhos em pixels, gerando imagens com qualidade impecável e detalhes impressionantes.</p>
 
           <p><strong>Desperte o Artista que Há em Você:</strong> A Leonardo AI democratiza o acesso à criação de arte digital, tornando-a acessível a todos. Mesmo que você não possua habilidades artísticas prévias, a plataforma oferece ferramentas intuitivas e recursos avançados que te guiarão passo a passo no processo de criação.</p>
 
           <p><strong>Revolucione seus Projetos Criativos:</strong> A plataforma se destaca como uma aliada poderosa para designers, desenvolvedores de jogos e artistas de diversas áreas. Crie assets únicos para seus jogos, ilustrações para seus projetos ou explore novas formas de expressão artística com a liberdade e a flexibilidade que a Leonardo AI oferece.</p>
 
+
           <h2 class="section-title">Recursos Inovadores para Impulsionar sua Criatividade:</h2>
-          <p><strong>Aprendizado de Máquina Aprimorado:</strong> A Leonardo AI aprimora continuamente suas capacidades por meio de um sistema de aprendizado de máquina robusto. Quanto mais a plataforma é utilizada, mais ela aprende com as interações dos usuários, gerando imagens cada vez mais precisas e realistas.</p>
+          <img src={Imagem12} alt="Imagem Aqui" />
+          <p><strong>Aprendizado de Máquina Aprimorado:</strong>
+            A Leonardo AI aprimora continuamente suas capacidades por meio de um sistema de aprendizado de máquina robusto. Quanto mais a plataforma é utilizada, mais ela aprende com as interações dos usuários, gerando imagens cada vez mais precisas e realistas.</p>
 
           <p><strong>Personalização sem Limites:</strong> Adapte as imagens geradas à sua visão artística única. A Leonardo AI oferece diversas opções de personalização, permitindo ajustar cores, texturas, estilos e muito mais. Explore diferentes possibilidades e refine suas criações até alcançar o resultado perfeito.</p>
 
@@ -121,6 +132,7 @@ const publiContent = {
           <p><strong>Redução de Custos:</strong> Otimize seus recursos e reduza custos com a produção de ativos, permitindo que você invista em outros aspectos de seus projetos.</p>
 
           <h2 class="section-title">Leonardo AI: A Escolha Perfeita para Criadores Ambiciosos:</h2>
+          <img src={Imagem11} alt="Imagem Aqui" />
           <p>Se você busca ferramentas inovadoras para elevar seus projetos criativos a um novo patamar, a Leonardo AI é a solução ideal. Com sua interface amigável, recursos avançados e capacidade de gerar imagens impressionantes, a plataforma te oferece tudo o que você precisa para desbloquear seu potencial artístico e alcançar resultados incríveis.</p>
 
           <p><strong>Dê o Primeiro Passo em Direção à Criação Extraordinária:</strong> Acesse o site da Leonardo AI e explore as diversas funcionalidades da plataforma. Experimente o poder da IA na criação de imagens e descubra um mundo de possibilidades ilimitadas.</p>
@@ -142,6 +154,7 @@ const publiContent = {
       <>
         <div class='content'>
           <h1 className="gradient__text title">Edição Musical em Casa: Transforme Seu Espaço em um Estúdio Profissional</h1>
+          <img src={Imagem15} alt="Imagem Aqui" />
           {/* <img className='center' src="imagem_url_1.jpg" alt="Pessoa editando música em um home studio com equipamentos de gravação" /> */}
           <h4>Descrição Alternativa: Músico trabalhando em edição de áudio em um estúdio caseiro com fones de ouvido e uma mesa de mixagem</h4>
           <p>A edição musical não está mais restrita a grandes estúdios. Com as ferramentas certas, qualquer pessoa pode criar e gravar músicas de qualidade profissional em casa. Software de edição acessível e equipamentos de gravação acessíveis permitem que músicos independentes produzem faixas incríveis sem sair de casa. A chave para o sucesso é aprender a utilizar esses recursos de forma eficaz, explorando tutoriais e praticando constantemente.</p>
