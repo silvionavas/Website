@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.0ace40d4.css",
-    "main.js": "/Website/static/js/main.8f173a2c.js",
+    "main.css": "/Website/static/css/main.2031b56e.css",
+    "main.js": "/Website/static/js/main.9c3f3d46.js",
     "static/media/ai.png": "/Website/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/leonardoCampo.jpg": "/Website/static/media/leonardoCampo.22ddb68a3d17a7322e59.jpg",
+    "static/media/edicaoMusical.jpg": "/Website/static/media/edicaoMusical.32c512b4b68051f5d71d.jpg",
+    "static/media/SunoImg.png": "/Website/static/media/SunoImg.220868c78cdd1de51207.png",
     "static/media/Igor.PNG": "/Website/static/media/Igor.2c21ba67168b403cef55.PNG",
     "static/media/Lucas.PNG": "/Website/static/media/Lucas.e9417556dbe954ebd47b.PNG",
     "static/media/Thomas.PNG": "/Website/static/media/Thomas.0a2d741d40278335ccdb.PNG",
     "static/media/Silvio.PNG": "/Website/static/media/Silvio.b30fa4524177d641e0f1.PNG",
     "static/media/image01.jpg": "/Website/static/media/image01.61fd8d94dc640d4512d0.jpg",
     "static/media/image04.jpg": "/Website/static/media/image04.218e7978e73c950465f9.jpg",
-    "static/media/image02.jpg": "/Website/static/media/image02.0671a69d141b8a4aa886.jpg",
-    "static/media/image03.jpg": "/Website/static/media/image03.6c8f738d3142eacc9bf1.jpg",
     "static/media/TutorialSuno09.png": "/Website/static/media/TutorialSuno09.8786bac065f74ec82168.png",
     "static/media/TutorialSuno08.png": "/Website/static/media/TutorialSuno08.745ec3c6cae86ae41899.png",
     "static/media/TutorialSuno03.png": "/Website/static/media/TutorialSuno03.ecee23ffbf6f0eed9bd5.png",
+    "static/media/leonardo.jpg": "/Website/static/media/leonardo.e7fbd7d633e254f93495.jpg",
     "static/media/TutorialSuno01.png": "/Website/static/media/TutorialSuno01.a371b9364480a28063ee.png",
+    "static/media/edicaoMusical2.jpg": "/Website/static/media/edicaoMusical2.8bf65540b2d87ea1c2a8.jpg",
     "static/media/TutorialSuno07.png": "/Website/static/media/TutorialSuno07.70f71391089757630896.png",
-    "static/media/image09.jpg": "/Website/static/media/image09.7feca04db1fa15544a8a.jpg",
+    "static/media/image05.jpg": "/Website/static/media/image05.f79a79f60d3e7f0c5a20.jpg",
     "static/media/TutorialSuno05.png": "/Website/static/media/TutorialSuno05.0f2ef17484ef18af3c28.png",
     "static/media/TutorialSuno02.png": "/Website/static/media/TutorialSuno02.cbedfa95f98c34a8ada5.png",
     "static/media/TutorialSuno06.png": "/Website/static/media/TutorialSuno06.7e78e3f7a93ad110ada7.png",
@@ -32,11 +35,11 @@
     "static/media/people.png": "/Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
-    "main.0ace40d4.css.map": "/Website/static/css/main.0ace40d4.css.map",
-    "main.8f173a2c.js.map": "/Website/static/js/main.8f173a2c.js.map"
+    "main.2031b56e.css.map": "/Website/static/css/main.2031b56e.css.map",
+    "main.9c3f3d46.js.map": "/Website/static/js/main.9c3f3d46.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ace40d4.css",
-    "static/js/main.8f173a2c.js"
+    "static/css/main.2031b56e.css",
+    "static/js/main.9c3f3d46.js"
   ]
 }
