@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Website/static/css/main.2031b56e.css",
-    "main.js": "/Website/static/js/main.fca8c867.js",
+    "main.js": "/Website/static/js/main.8ca9f8f5.js",
     "static/media/ai.png": "/Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/leonardoCampo.jpg": "/Website/static/media/leonardoCampo.22ddb68a3d17a7322e59.jpg",
     "static/media/edicaoMusical.jpg": "/Website/static/media/edicaoMusical.32c512b4b68051f5d71d.jpg",
@@ -10,8 +10,7 @@
     "static/media/Lucas.PNG": "/Website/static/media/Lucas.e9417556dbe954ebd47b.PNG",
     "static/media/Thomas.PNG": "/Website/static/media/Thomas.0a2d741d40278335ccdb.PNG",
     "static/media/Silvio.PNG": "/Website/static/media/Silvio.b30fa4524177d641e0f1.PNG",
-    "static/media/image01.jpg": "/Website/static/media/image01.61fd8d94dc640d4512d0.jpg",
-    "static/media/image04.jpg": "/Website/static/media/image04.218e7978e73c950465f9.jpg",
+    "static/media/leonardo.png": "/Website/static/media/leonardo.33ba404fb0b9dec76c6d.png",
     "static/media/TutorialSuno09.png": "/Website/static/media/TutorialSuno09.8786bac065f74ec82168.png",
     "static/media/TutorialSuno08.png": "/Website/static/media/TutorialSuno08.745ec3c6cae86ae41899.png",
     "static/media/TutorialSuno03.png": "/Website/static/media/TutorialSuno03.ecee23ffbf6f0eed9bd5.png",
@@ -30,16 +29,18 @@
     "static/media/TutorialSuno04.png": "/Website/static/media/TutorialSuno04.304023364af4b897ff3c.png",
     "static/media/musica-tecnologia.svg": "/Website/static/media/musica-tecnologia.61a48d9582c494038553eedab96ea20a.svg",
     "static/media/techtuneBg.png": "/Website/static/media/techtuneBg.0556281c0efd7cab14ea.png",
+    "static/media/seo.JPG": "/Website/static/media/seo.b08210544c5f7506e108.JPG",
     "static/media/Dennis.jpg": "/Website/static/media/Dennis.9a5fd3f4abc87cb1d0dc.jpg",
     "static/media/TechTuneBanner.jpg": "/Website/static/media/TechTuneBanner.f71f9a35316fd234de30.jpg",
+    "static/media/sora.JPG": "/Website/static/media/sora.f2f4470ce9d35519e29f.JPG",
     "static/media/people.png": "/Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
     "main.2031b56e.css.map": "/Website/static/css/main.2031b56e.css.map",
-    "main.fca8c867.js.map": "/Website/static/js/main.fca8c867.js.map"
+    "main.8ca9f8f5.js.map": "/Website/static/js/main.8ca9f8f5.js.map"
   },
   "entrypoints": [
     "static/css/main.2031b56e.css",
-    "static/js/main.fca8c867.js"
+    "static/js/main.8ca9f8f5.js"
   ]
 }
