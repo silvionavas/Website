@@ -21,6 +21,7 @@ import Imagem12 from "../../assets/image05.jpg";
 import Imagem13 from "../../assets/leonardo.jpg";
 import Imagem14 from "../../assets/edicaoMusical.jpg";
 import Imagem15 from "../../assets/edicaoMusical2.jpg";
+import Imagem16 from "../../assets/seo.JPG";
 
 const publiContent = {
   '1': {
@@ -168,7 +169,8 @@ const publiContent = {
       <>
         <div class='content'>
           <h1 className="gradient__text title">Dominando o SEO: A Arte de Ranquear Conteúdo na Web</h1>
-          <img className='center' src="imagem_url_2.jpg" alt="Gráfico mostrando aumento de tráfego em um site" />
+          {/* <img className='center' src={Imagem16} alt="Texto alternativo" /> */}
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/MYE6T_gd7H0?si=owHlgZsPxyhVEI5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           <h4>Descrição Alternativa: Gráfico em tela de computador exibindo aumento no tráfego de um site</h4>
           <p>SEO (Search Engine Optimization) é essencial para qualquer pessoa ou empresa que deseja aumentar sua visibilidade online. Compreender e aplicar técnicas de SEO pode ser a diferença entre ser encontrado ou ignorado na internet. Fatores como palavras-chave relevantes, conteúdo de qualidade e backlinks são cruciais para melhorar o ranqueamento nos mecanismos de busca. Investir tempo em aprender SEO é investir no sucesso digital a longo prazo.</p>
         </div>

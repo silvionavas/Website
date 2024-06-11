@@ -23,9 +23,9 @@ const Footer = () => {
         <div className="gpt3__footer-links_div">
           <h4>Links</h4>
           <p>Sobre nós</p>
-          <p>Mídias sociais</p>
-          <p>Contadores</p>
-          <p>Contato</p>
+          <a href="https://www.instagram.com/techtunemusic/?next=%2F"><p>Instagram</p></a>
+          <a href="https://www.youtube.com/@TechTuneMusic"><p>Youtube</p></a>
+          <a href="https://www.instagram.com/techtunemusic/?next=%2F"></a><p>Facebook</p>
         </div>
         <div className="gpt3__footer-links_div">
           <h4>Empresa</h4>

@@ -8,10 +8,10 @@ import { Link } from 'react-router-dom';
 const Blog = () => {
   const articles = [
     { id: '1', imgUrl: blog01, date: 'Jul 05, 2022', title: 'Suno: A IA que gera músicas e suas possibilidades para a composição' },
-    { id: '2', imgUrl: blog02, date: 'Jul 05, 2022', title: 'Inovações Sonoras: A Fusão Criativa entre Tecnologia e Música' },
-    { id: '3', imgUrl: blog03, date: 'Jul 05, 2022', title: 'Revolução Digital na Música: IA e Novos Horizontes Sonoros' },
-    { id: '4', imgUrl: blog04, date: 'Jul 05, 2022', title: 'Música do Futuro: Como a Tecnologia Está Transformando a Criação Musical' },
-    { id: '5', imgUrl: blog05, date: 'Jul 05, 2022', title: 'Harmonizando Bits e Batidas: A Evolução da Música com Tecnologia Avançada' },
+    { id: '2', imgUrl: blog02, date: 'Jul 05, 2022', title: 'Mega Resumo: Leonardo AI - Domine a Arte da Criação com Inteligência Artificial' },
+    { id: '3', imgUrl: blog03, date: 'Jul 05, 2022', title: 'Edição Musical em Casa: Transforme Seu Espaço em um Estúdio Profissional' },
+    { id: '4', imgUrl: blog04, date: 'Jul 05, 2022', title: 'Dominando o SEO: A Arte de Ranquear Conteúdo na Web' },
+    { id: '5', imgUrl: blog05, date: 'Jul 05, 2022', title: 'O céu é o limite: Sora quer abocanhar o mercado dos simuladores científicos e das ficções hollywoodianas' },
   ];
 
   return (
