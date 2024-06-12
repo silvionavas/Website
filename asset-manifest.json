@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Website/static/css/main.2031b56e.css",
-    "main.js": "/Website/static/js/main.8ca9f8f5.js",
+    "main.js": "/Website/static/js/main.c8fe261a.js",
     "static/media/ai.png": "/Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/leonardoCampo.jpg": "/Website/static/media/leonardoCampo.22ddb68a3d17a7322e59.jpg",
     "static/media/edicaoMusical.jpg": "/Website/static/media/edicaoMusical.32c512b4b68051f5d71d.jpg",
@@ -37,10 +37,10 @@
     "static/media/logo.svg": "/Website/static/media/logo.0466915809ce9bcd9d31def30f333f27.svg",
     "index.html": "/Website/index.html",
     "main.2031b56e.css.map": "/Website/static/css/main.2031b56e.css.map",
-    "main.8ca9f8f5.js.map": "/Website/static/js/main.8ca9f8f5.js.map"
+    "main.c8fe261a.js.map": "/Website/static/js/main.c8fe261a.js.map"
   },
   "entrypoints": [
     "static/css/main.2031b56e.css",
-    "static/js/main.8ca9f8f5.js"
+    "static/js/main.c8fe261a.js"
   ]
 }
