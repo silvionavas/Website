@@ -183,8 +183,10 @@ const publiContent = {
       <>
         <div class='content'>
           <h1 className="gradient__text title">O céu é o limite: Sora quer abocanhar o mercado dos simuladores científicos e das ficções hollywoodianas</h1>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/HK6y8DAPN_0?si=llKcGs4RLt9PCHkX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <p>Soube por uma breve matéria do Estadão SP do último dia 04 que o Festival de Cinema de Tribeca em Nova Iorque exibirá em 15 de junho, em sessão exclusiva, cinco curtas-metragens de até vinte minutos produzidos pelo Sora, uma inteligência artificial geradora de vídeos a partir de prompts de texto, desenvolvida pela empresa OpenAI - sim, a mesma do ChatGPT, que tem dado o que falar há uns bons meses e que fez seu irmão caçula ser apelidado de “o ChatGPT dos vídeos” (Causin e Cavalcanti, O Globo, 16 fev).
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/rA3htiGHsLc?si=aYZhyEWhFpIQ9JrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+          <p>Soube por uma breve matéria do Estadão SP do último dia 04 que o Festival de Cinema de Tribeca em Nova Iorque exibirá em 15 de junho, em sessão exclusiva, cinco curtas-metragens de até vinte minutos produzidos pelo <strong><a href="https://openai.com/index/sora/">Sora</a></strong>, uma inteligência artificial geradora de vídeos a partir de prompts de texto, desenvolvida pela empresa OpenAI - sim, a mesma do ChatGPT, que tem dado o que falar há uns bons meses e que fez seu irmão caçula ser apelidado de “o ChatGPT dos vídeos” (Causin e Cavalcanti, O Globo, 16 fev).
           </p>
           <p>É a primeira vez que um festival dessa natureza reserva um espaço especial a vídeos gerados por IA com base em roteiros escritos por cinco profissionais: Bonnie Discepolo, Ellie Foumbi, Nikyatu Jusu, Reza Sixo Safai e Michaela Ternaski-Holland. O que sempre me deixa instigada em ocasiões assim é saber o que o pessoal do cinema pensa disso tudo, já que o da tecnologia sempre é o mais entusiasta, naturalmente.
           </p>
